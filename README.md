@@ -18,6 +18,10 @@ Now I'd like to talk about the products I used:
 | Tastatur                 | 74,99€  | https://amzn.eu/d/015LiWVQ                                                                    |
 | Maus                     | 13,99€  | https://amzn.eu/d/04KNfztE                                                                    |
 <br>
+
 *(Please note that prices may change over time. Always check the linked product pages for the most current pricing.)* <br>
+
 Also, I already owned many of the products listed, so some cables may not fit perfectly. However, I have tried my best to find good alternatives.<br>
+
 **Also, I bought items like screws and heat inserts in bulk. For this project you only need 4 heat inserts (M2.5 x 4 x 3.5mm) and 4 screws (M2.5 x 4mm, flat head).**<br>
+
